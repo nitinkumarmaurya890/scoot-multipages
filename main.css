@@ -548,8 +548,8 @@ a:hover{
     z-index: 1;
   }
   .sidebar-container .logo img{
-      width: 75px;
-      height: 21px;
+      width: 40px;
+      height: 29px;
   }
   .sidebar {
     height: calc(100% - 70px); 
